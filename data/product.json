@@ -1,0 +1,19 @@
+[
+  {
+    "name": "",
+    "price": "",
+    "description": "",
+    "ratings": "",
+    "images": [
+      {
+        "public_id": "",
+        "url": ""
+      }
+    ],
+    "category": "",
+    "seller": "",
+    "stock": "",
+    "numOfReviews": "",
+    "reviews": []
+  }
+]
